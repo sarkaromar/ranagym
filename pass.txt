@@ -1,0 +1,12 @@
+
+super_admin@test.com
+Abc123456  ----  $2a$12$I6rvV1GXijG7a6v/syznPOkRo73eWAapZneLVh4CdPvLSKu4dV342
+
+
+fornt
+=============
+Mostafijur Rahman
+rana@gmail.com
+rana
+
+
